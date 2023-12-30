@@ -1,5 +1,5 @@
 # Super_Shopper
-UCSB Class project #3 Group Members: Martin Perez, Zhongxuan Si, Rebecca Bennet, Jimmy Nguyen, Leslie Leiva
+UCSB Class project #3 Group Members: Martin Perez, Zhongxuan Si, Rebecca Bennett, Jimmy Nguyen, Leslie Leiva
 
 -------------------------------------------------------------------
 -------------------------------------------------------------------
