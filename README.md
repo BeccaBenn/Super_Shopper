@@ -22,6 +22,12 @@ Summary
 - Audience Attraction Dynamics: The allure of the most popular categories lies in their extensive subcategories, effectively capturing a diverse audience within specific niches. This strategic approach not only enhances the appeal of these categories but also ensures a broader engagement with a varied audience base.
 
 - Seasonal Fluctuations: Following the holiday season, there is a noticeable reduction in the number of categories. However, the data indicates a gradual pickup in category numbers after March, signaling a shift in consumer preferences and purchasing patterns.
+  
+<img width="813" alt="Screenshot 2024-01-08 at 2 27 52 PM" src="https://github.com/BeccaBenn/Super_Shopper/assets/140974405/628da0f2-1eff-4fca-8320-93ff444eedd0">
+
+![SubCategory_Analysis_1](https://github.com/BeccaBenn/Super_Shopper/assets/140974405/0308ce4c-59b1-470b-9bcc-69f742cde3f4)
+
+<img width="583" alt="Screenshot 2024-01-08 at 2 27 45 PM" src="https://github.com/BeccaBenn/Super_Shopper/assets/140974405/4983b3b5-5ba1-4dce-86dd-37e7fcc839f5">
 
 -------------------------------------------------------------------
 Presentation
