@@ -48,7 +48,6 @@ Modules Utilized
 -------------------------------------------------------------------
 Sources MetaData Information & URL
 -------------------------------------------------------------------
--------------------------------------------------------------------
 Amazon & E-Commerce Data
 | Description        | Values          |
 | :------------------: |:-------------:| 
@@ -61,9 +60,9 @@ Amazon & E-Commerce Data
 | Data source |https://app.snowflake.com/marketplace/listing/GZT1ZA3NK6/similarweb-ltd-amazon-and-e-commerce-websites-product-views-and-purchases?pricing=free&page=3|
 
 -------------------------------------------------------------------
-
-	
-	
+Analytical Constraints
+-------------------------------------------------------------------
+In addition to grappling with large file sizes and compressed formats, our analysis was further hindered by the constraints of limited device memory. The combination of these factors necessitated a careful optimization of our analytical processes, ensuring that our methodologies were adapted to accommodate the constraints imposed by the available memory on devices.
 	
 	
 	
