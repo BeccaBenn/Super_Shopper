@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data By Category</title>
+    <style>
+        #selectedImage {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Hello from Flask!</h1>
+    <p>This is your HTML content served by Flask.</p>
+
+    <h1>Group 7: Super Shopper</h1>
+
+    <iframe
+        src="https://docs.google.com/presentation/d/1WG_LyvoiCMzsILe_7j3ja6Sl8Fqsu4r7kVsvnhOXCwA/edit#slide=id.g2ac9a38fb23_1_3"
+        width="100%"
+        height="500px"
+        frameborder="0"
+        allowfullscreen="true"
+    >
+    </iframe>
+
+    <h2>Shopped Categories:</h2>
+
+    <select id="imageSelector" onchange="changeImage()">
+        <option value="static/img/Health_Purchases.jpg">Health</option>
+        <option value="static/img/Home_Kitchen_Purchases.jpg">Home and Kitchen</option>
+        <option value="static/img/Outdoor_Purchases.jpg">Outdoor</option>
+        <!-- Add more image options as needed -->
+    </select>
+
+    <br>
+
+    <img id="selectedImage" src="healthpurchases.jpg" alt="Selected Image">
+
+    <script>
+        function changeImage() {
+            var selectElement = document.getElementById("imageSelector");
+            var selectedValue = selectElement.value;
+            var imageElement = document.getElementById("selectedImage");
+            imageElement.src = selectedValue;
+        }
+    </script>
+
+</body>
+</html>
