@@ -27,7 +27,12 @@ Summary
 
 ![SubCategory_Analysis_1](https://github.com/BeccaBenn/Super_Shopper/assets/140974405/0308ce4c-59b1-470b-9bcc-69f742cde3f4)
 
+![Screenshot 2024-01-09 002721](https://github.com/BeccaBenn/Super_Shopper/assets/140974405/760260d7-387f-48a1-8ad6-48d8b7d05eac)
+
 <img width="583" alt="Screenshot 2024-01-08 at 2 27 45 PM" src="https://github.com/BeccaBenn/Super_Shopper/assets/140974405/4983b3b5-5ba1-4dce-86dd-37e7fcc839f5">
+
+![June_Pie](https://github.com/BeccaBenn/Super_Shopper/assets/140974405/c73cc992-65f6-4572-b249-1c5f695d633c)
+
 
 -------------------------------------------------------------------
 Presentation
@@ -37,8 +42,15 @@ https://docs.google.com/presentation/d/1WG_LyvoiCMzsILe_7j3ja6Sl8Fqsu4r7kVsvnhOX
 -------------------------------------------------------------------
 Instructions
 -------------------------------------------------------------------
-1. 
-2. 
+1. A large dataset was pulled from the SQL server.
+2. Module gzip was utilized for reading compressed files. The alternative would be splitting the large file into smaller files via the terminal:
+   	- macOS or Linux: cat your_file_part* > your_file_combined.zip
+   	- Windows: type your_file_part* > your_file_combined.zip
+3. The dataset was cleaned up via the following:
+   	- Condensed 208 categories into 23
+   	- NaN values were dropped via rows
+4. Data was analyzed and plotted using the clean dataset to find trends in consumer data.
+5. HTML and Flask were used for the interactive portion to view categorical data.
 
 -------------------------------------------------------------------
 Modules Utilized
