@@ -53,6 +53,11 @@ Instructions
 5. HTML and Flask were used for the interactive portion to view categorical data.
 
 -------------------------------------------------------------------
+Ethics
+-------------------------------------------------------------------
+In the realm of data analytics for our current project, ethical considerations play a paramount role. As stewards of information, we adhere to a set of principles that prioritize privacy, transparency, and responsible data usage. Our commitment to ethics extends to ensuring the confidentiality and security of the data we handle. Striking a delicate balance between extracting valuable insights and respecting individual privacy rights is at the core of our ethical framework. Additionally, we are dedicated to transparent communication regarding our analytical methodologies, acknowledging the potential impact of our findings, and being vigilant in avoiding biases. This commitment underscores our belief that ethical data analytics not only safeguards the integrity of our analyses but also fosters trust among stakeholders and the broader community.
+
+-------------------------------------------------------------------
 Modules Utilized
 -------------------------------------------------------------------
 | Name |  Abb    | Reference |
